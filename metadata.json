@@ -1,0 +1,5 @@
+{
+  "name": "Redux Shoe Store",
+  "description": "An online shoe store application demonstrating React, Redux Toolkit for state management, and a seamless cart-to-payment workflow. Features include product browsing, a dynamic shopping cart, and a credit card payment form.",
+  "requestFramePermissions": []
+}
